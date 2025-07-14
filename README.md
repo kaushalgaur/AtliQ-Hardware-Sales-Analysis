@@ -11,8 +11,10 @@ The dataset follows a **star schema** and includes:
 - `dim_customer.csv`: Customer details  
 - `dim_market.csv`: Market and region information  
 - `dim_product.csv`: Product catalog with brand and category  
-- `fact_sales_monthly.csv`: Monthly sales figures across markets *(uploaded as `.zip` due to GitHub file size limit)*  
+- `fact_sales_monthly.zip`: Monthly sales figures across markets *(uploaded as .zip due to GitHub file size limit)*  
 - `dim_date`: Available within the Excel report, includes Fiscal Year and Quarter info  
+
+🗂️ All dataset files are located inside the `/Dataset` folder.
 
 ---
 
@@ -37,9 +39,9 @@ The dataset follows a **star schema** and includes:
 
 ---
 
-## 📄 Report Files
+## 📄 Report Files (located in `/Reports` folder)
 
-- `sales_report.xlsx`: Multi-sheet Excel file with complete analysis (7 sheets)  
+- `sales_report.xlsx`: Multi-sheet Excel file with complete pivot-based analysis (7 sheets)  
 - `Atliq_Sales_Report.pdf`: 8-page printable version of the final report  
 
 ---
